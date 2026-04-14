@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **handy-sun/handy-sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +8,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+![Metrics](https://metrics.lecoq.io/handy-sun)
+-->
 
+## Hi there 👋
 
 - 🔭 I’m currently working on Modern C++ / C on Linux.
 
@@ -18,6 +19,4 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ArchLinux/NixOS/MacOS
 
--->
-
-![Metrics](https://metrics.lecoq.io/handy-sun)
+![Metrics](/github-metrics.svg)
